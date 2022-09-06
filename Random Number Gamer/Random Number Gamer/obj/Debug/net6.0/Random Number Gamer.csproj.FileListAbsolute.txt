@@ -1,0 +1,15 @@
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\bin\Debug\net6.0\Random Number Gamer.exe
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\bin\Debug\net6.0\Random Number Gamer.deps.json
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\bin\Debug\net6.0\Random Number Gamer.runtimeconfig.json
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\bin\Debug\net6.0\Random Number Gamer.dll
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\bin\Debug\net6.0\Random Number Gamer.pdb
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Gamer.csproj.AssemblyReference.cache
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Gamer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Gamer.AssemblyInfoInputs.cache
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Gamer.AssemblyInfo.cs
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Gamer.csproj.CoreCompileInputs.cache
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Gamer.dll
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\refint\Random Number Gamer.dll
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Gamer.pdb
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Gamer.genruntimeconfig.cache
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\ref\Random Number Gamer.dll

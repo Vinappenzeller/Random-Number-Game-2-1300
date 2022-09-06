@@ -1,0 +1,17 @@
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\bin\Debug\net6.0\Random Number Game.exe
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\bin\Debug\net6.0\Random Number Game.deps.json
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\bin\Debug\net6.0\Random Number Game.runtimeconfig.json
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\bin\Debug\net6.0\Random Number Game.dll
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\bin\Debug\net6.0\Random Number Game.pdb
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Game.csproj.AssemblyReference.cache
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Game.AssemblyInfoInputs.cache
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Game.AssemblyInfo.cs
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Game.csproj.CoreCompileInputs.cache
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Game.dll
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\refint\Random Number Game.dll
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Game.pdb
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Game.genruntimeconfig.cache
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\ref\Random Number Game.dll
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\bin\Debug\net6.0\Figgle.dll
+C:\Users\vin_a\source\repos\Random Number Gamer\Random Number Gamer\obj\Debug\net6.0\Random Number Game.csproj.CopyComplete
